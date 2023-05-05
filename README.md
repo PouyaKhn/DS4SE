@@ -8,16 +8,16 @@ This repository contains my codes for homeWork of Data Science in Software Engin
 
 ### HW1
 
-[[Notebook & its solution]](HW/HW1/HW1.ipynb)
+[[Notebook & its solution]](HW1/HW1.ipynb)
 
 ### HW2
 
-[[Notebook & its solution]](HW/HW2/HW2.ipynb)
+[[Notebook & its solution]](HW2/HW2.ipynb)
 
 ### HW3
 
-[[Notebook & its solution]](HW/HW3/HW3.ipynb)
+[[Notebook & its solution]](HW3/HW3.ipynb)
 
 ### HW5
 
-[[Proposed Paper]](HW/HW5/HW5.pdf) [[Implementation]](HW/HW5/Implementation)
+[[Proposed Paper]](HW5/HW5.pdf) [[Implementation]](HW5/Implementation)
