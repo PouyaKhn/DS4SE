@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/repo-size/PouyaKhn/DS4SE)
 
 # Data Science in Software Engineering Course Homeworks Solutions
-This repository contains my codes for homeWork of Data Science in Software Engineering course held at Sharif University of Technology (SUT) by Prof. Abbas Heydarnoori in Fall 2021.
+This repository contains my codes for homeWork of Data Science in Software Engineering course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Abbas Heydarnoori](https://scholar.google.com/citations?user=s5vgK3kAAAAJ&hl=en) in Fall 2021.
 
 ## HomeWorks
 
